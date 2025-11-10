@@ -19,6 +19,26 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 946428296,Strictly Palindromic Number,strictly-palindromic-number,1683523567,python,Accepted,21 ms,16.6 MB,Vigneshwar_RR,21,16.6,37.6
 1810672130,Valid Anagram,valid-anagram,1761335784,python3,Accepted,8 ms,17.9 MB,Vigneshwar_RR,8,17.9,25.9
 942488298,Valid Sudoku,valid-sudoku,1682926188,python,Accepted,71 ms,13.5 MB,Vigneshwar_RR,71,13.5,84.5
+1529068978,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,1738529984,cpp,Accepted,0 ms,11.2 MB,_Greenleaf,0,11.2,11.2
+1531792950,Check if One String Swap Can Make Strings Equal,check-if-one-string-swap-can-make-strings-equal,1738727615,cpp,Accepted,0 ms,8.2 MB,_Greenleaf,0,8.2,8.2
+1441212075,Circular Sentence,circular-sentence,1730591945,cpp,Accepted,0 ms,8.3 MB,_Greenleaf,0,8.3,8.3
+1537609040,Clear Digits,clear-digits,1739157063,cpp,Accepted,2 ms,8.5 MB,_Greenleaf,2,8.5,10.5
+1546794843,Construct Smallest Number From DI String,construct-smallest-number-from-di-string,1739837095,cpp,Accepted,58 ms,7.8 MB,_Greenleaf,58,7.8,65.8
+1451215499,Count the Number of Fair Pairs,count-the-number-of-fair-pairs,1731470549,cpp,Accepted,64 ms,60.3 MB,_Greenleaf,64,60.3,124.3
+1494667206,Count Vowel Strings in Ranges,count-vowel-strings-in-ranges,1735789888,cpp,Accepted,4 ms,69.8 MB,_Greenleaf,4,69.8,73.8
+1439493176,Delete Characters to Make Fancy String,delete-characters-to-make-fancy-string,1730428795,cpp,Accepted,22 ms,42.8 MB,_Greenleaf,22,42.8,64.8
+1576444670,Divide Array Into Equal Pairs,divide-array-into-equal-pairs,1742192350,cpp,Accepted,3 ms,18.1 MB,_Greenleaf,3,18.1,21.1
+1442075749,Divide Players Into Teams of Equal Skill,divide-players-into-teams-of-equal-skill,1730664127,cpp,Accepted,23 ms,56.3 MB,_Greenleaf,23,56.3,79.3
+1534399346,Find the Number of Distinct Colors Among the Balls,find-the-number-of-distinct-colors-among-the-balls,1738907693,cpp,Accepted,114 ms,157.6 MB,_Greenleaf,114,157.6,271.6
+1456781986,Maximum Sum of Distinct Subarrays With Length K,maximum-sum-of-distinct-subarrays-with-length-k,1731983227,cpp,Accepted,246 ms,105.3 MB,_Greenleaf,246,105.3,351.3
+1416534778,Minimum Add to Make Parentheses Valid,minimum-add-to-make-parentheses-valid,1728444317,cpp,Accepted,3 ms,7.7 MB,_Greenleaf,3,7.7,10.7
+1414299220,Minimum String Length After Removing Substrings,minimum-string-length-after-removing-substrings,1728269478,cpp,Accepted,7 ms,11.4 MB,_Greenleaf,7,11.4,18.4
+1412788071,Permutation in String,permutation-in-string,1728147470,cpp,Accepted,3 ms,8.8 MB,_Greenleaf,3,8.8,11.8
+1408842976,Rank Transform of an Array,rank-transform-of-an-array,1727836286,cpp,Accepted,73 ms,44.5 MB,_Greenleaf,73,44.5,117.5
+1441337175,Rotate String,rotate-string,1730603546,cpp,Accepted,0 ms,7.5 MB,_Greenleaf,0,7.5,7.5
+1422781199,Separate Black and White Balls,separate-black-and-white-balls,1728968331,cpp,Accepted,30 ms,15.5 MB,_Greenleaf,30,15.5,45.5
+1649387777,Snakes and Ladders,snakes-and-ladders,1748663884,cpp,Accepted,0 ms,17.7 MB,_Greenleaf,0,17.7,17.7
+1527006517,Special Array I,special-array-i,1738383166,cpp,Accepted,0 ms,27.7 MB,_Greenleaf,0,27.7,27.7
 1820624709,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1762269201,python3,Accepted,0 ms,18.2 MB,madhavan02,0,18.2,18.2
 1817984312,Coin Change,coin-change,1762024524,python3,Accepted,740 ms,18.1 MB,madhavan02,740,18.1,758.1
 1820974898,Coin Change II,coin-change-ii,1762297503,python3,Accepted,187 ms,17.8 MB,madhavan02,187,17.8,204.8
