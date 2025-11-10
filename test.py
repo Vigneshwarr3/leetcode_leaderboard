@@ -76,6 +76,9 @@ def get_recent_ac_submissions(username, limit=20):
 
 
 def main():
+
+    UNITS = "BKMGTP"
+    
     with open('usernames.txt', 'r') as file:
         usernames = file.readlines()
     
@@ -91,8 +94,8 @@ def main():
         df_all = pd.concat([df_all, df], ignore_index=True)
 
 
-    df_all['runtime_val'] = df_all['runtime'].apply(lambda x: int(x.split()[0]))
-    df_all['memory_val'] = df_all['memory'].apply(lambda x: float(x.split()[0]))
+    df_all['runtime_val'] = df_all['runtime'].apply(lambda x: int(x.split()[0].rstrip(UNITS)))
+    df_all['memory_val'] = df_all['memory'].apply(lambda x: float(x.split()[0].rstrip(UNITS)))
     df_all.sort_values(by=['username', 'titleSlug', 'runtime_val', 'memory_val'], ascending=[True, True , True, True], inplace=True)
     df_all = df_all.drop_duplicates(subset=['username', 'titleSlug'], keep='first')
     df_all['overall_score'] = df_all['runtime_val'] + df_all['memory_val']
