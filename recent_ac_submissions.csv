@@ -1,0 +1,57 @@
+id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_val,memory_val,overall_score
+939811863,Add Digits,add-digits,1682476232,python,Accepted,17 ms,13.3 MB,Vigneshwar_RR,17,13.3,30.3
+1810688695,Best Time to Buy and Sell Stock,best-time-to-buy-and-sell-stock,1761337698,python3,Accepted,27 ms,27 MB,Vigneshwar_RR,27,27.0,54.0
+943329928,Combination Sum,combination-sum,1683045286,python,Accepted,42 ms,13.3 MB,Vigneshwar_RR,42,13.3,55.3
+941963384,Container With Most Water,container-with-most-water,1682834793,python,Accepted,562 ms,23.9 MB,Vigneshwar_RR,562,23.9,585.9
+1677643575,Contains Duplicate,contains-duplicate,1750968050,python3,Accepted,16 ms,31.5 MB,Vigneshwar_RR,16,31.5,47.5
+943769548,Find the Difference of Two Arrays,find-the-difference-of-two-arrays,1683113527,python,Accepted,146 ms,13.7 MB,Vigneshwar_RR,146,13.7,159.7
+953200203,Find the Index of the First Occurrence in a String,find-the-index-of-the-first-occurrence-in-a-string,1684480852,python,Accepted,17 ms,13.5 MB,Vigneshwar_RR,17,13.5,30.5
+942627264,Generate Parentheses,generate-parentheses,1682946563,python,Accepted,15 ms,13.8 MB,Vigneshwar_RR,15,13.8,28.8
+941974304,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,1682836469,python,Accepted,11 ms,13.5 MB,Vigneshwar_RR,11,13.5,24.5
+946416556,Matrix Diagonal Sum,matrix-diagonal-sum,1683521958,python,Accepted,80 ms,13.6 MB,Vigneshwar_RR,80,13.6,93.6
+1604043298,Missing Number,missing-number,1744408653,python3,Accepted,0 ms,18.6 MB,Vigneshwar_RR,0,18.6,18.6
+1543351706,Power of Two,power-of-two,1739574748,python3,Accepted,0 ms,17.9 MB,Vigneshwar_RR,0,17.9,17.9
+943774870,Reverse Integer,reverse-integer,1683114420,python,Accepted,16 ms,13.2 MB,Vigneshwar_RR,16,13.2,29.2
+942468361,Search Insert Position,search-insert-position,1682923452,python,Accepted,36 ms,14 MB,Vigneshwar_RR,36,14.0,50.0
+943334160,Sign of the Product of an Array,sign-of-the-product-of-an-array,1683045716,python,Accepted,47 ms,13.5 MB,Vigneshwar_RR,47,13.5,60.5
+1097620190,Sort Vowels in a String,sort-vowels-in-a-string,1699847768,python3,Accepted,148 ms,24.3 MB,Vigneshwar_RR,148,24.3,172.3
+947940732,Spiral Matrix,spiral-matrix,1683736517,python,Accepted,21 ms,13.3 MB,Vigneshwar_RR,21,13.3,34.3
+946428296,Strictly Palindromic Number,strictly-palindromic-number,1683523567,python,Accepted,21 ms,16.6 MB,Vigneshwar_RR,21,16.6,37.6
+1810672130,Valid Anagram,valid-anagram,1761335784,python3,Accepted,8 ms,17.9 MB,Vigneshwar_RR,8,17.9,25.9
+942488298,Valid Sudoku,valid-sudoku,1682926188,python,Accepted,71 ms,13.5 MB,Vigneshwar_RR,71,13.5,84.5
+1820624709,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1762269201,python3,Accepted,0 ms,18.2 MB,madhavan02,0,18.2,18.2
+1817984312,Coin Change,coin-change,1762024524,python3,Accepted,740 ms,18.1 MB,madhavan02,740,18.1,758.1
+1820974898,Coin Change II,coin-change-ii,1762297503,python3,Accepted,187 ms,17.8 MB,madhavan02,187,17.8,204.8
+1823609770,Container With Most Water,container-with-most-water,1762549093,python3,Accepted,35 ms,28.4 MB,madhavan02,35,28.4,63.4
+1817939231,Decode Ways,decode-ways,1762021121,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
+1824567270,Interleaving String,interleaving-string,1762647503,python3,Accepted,52 ms,17.9 MB,madhavan02,52,17.9,69.9
+1820131686,Longest Common Subsequence,longest-common-subsequence,1762225997,python3,Accepted,459 ms,42.9 MB,madhavan02,459,42.9,501.9
+1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
+1817151011,Longest Palindromic Substring,longest-palindromic-substring,1761939585,python3,Accepted,363 ms,18 MB,madhavan02,363,18.0,381.0
+1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
+1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
+1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
+1823628459,Reverse Linked List,reverse-linked-list,1762551773,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
+1823371479,Squares of a Sorted Array,squares-of-a-sorted-array,1762528882,python3,Accepted,7 ms,19.3 MB,madhavan02,7,19.3,26.3
+1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
+1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
+1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
+1648463504,3Sum,3sum,1748571944,java,Accepted,28 ms,51.8 MB,yashwanth1129,28,51.8,79.8
+1649333843,4Sum,4sum,1748655248,java,Accepted,16 ms,43.7 MB,yashwanth1129,16,43.7,59.7
+1667815775,Find Subsequence of Length K With the Largest Sum,find-subsequence-of-length-k-with-the-largest-sum,1750220014,java,Accepted,8 ms,44.5 MB,yashwanth1129,8,44.5,52.5
+1694690180,Fruit Into Baskets,fruit-into-baskets,1752268220,java,Accepted,51 ms,55.7 MB,yashwanth1129,51,55.7,106.7
+1693701511,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1752191896,java,Accepted,5 ms,44.9 MB,yashwanth1129,5,44.9,49.9
+1644563219,Majority Element II,majority-element-ii,1748228180,java,Accepted,3 ms,50.2 MB,yashwanth1129,3,50.2,53.2
+1693765843,Max Consecutive Ones III,max-consecutive-ones-iii,1752201547,java,Accepted,3 ms,46.6 MB,yashwanth1129,3,46.6,49.6
+1667800290,Maximize Sum Of Array After K Negations,maximize-sum-of-array-after-k-negations,1750218825,java,Accepted,5 ms,42.8 MB,yashwanth1129,5,42.8,47.8
+1653192108,Maximum Product Subarray,maximum-product-subarray,1748999871,java,Accepted,1 ms,44.7 MB,yashwanth1129,1,44.7,45.7
+1650176496,Merge Intervals,merge-intervals,1748738202,java,Accepted,9 ms,46.7 MB,yashwanth1129,9,46.7,55.7
+1652278589,Merge Sorted Array,merge-sorted-array,1748921012,java,Accepted,1 ms,42.5 MB,yashwanth1129,1,42.5,43.5
+1635997466,Next Permutation,next-permutation,1747449553,java,Accepted,0 ms,43.4 MB,yashwanth1129,0,43.4,43.4
+1652975561,Random Pick with Weight,random-pick-with-weight,1748974003,java,Accepted,28 ms,49.9 MB,yashwanth1129,28,49.9,77.9
+1665526771,Remove Element,remove-element,1750044965,java,Accepted,0 ms,41.8 MB,yashwanth1129,0,41.8,41.8
+1639836170,Rotate Image,rotate-image,1747793369,java,Accepted,0 ms,42 MB,yashwanth1129,0,42.0,42.0
+1638814843,Set Matrix Zeroes,set-matrix-zeroes,1747706162,java,Accepted,1 ms,46 MB,yashwanth1129,1,46.0,47.0
+1643542351,Spiral Matrix,spiral-matrix,1748137140,java,Accepted,0 ms,41.4 MB,yashwanth1129,0,41.4,41.4
+1642594010,Subarray Sum Equals K,subarray-sum-equals-k,1748054742,java,Accepted,24 ms,47 MB,yashwanth1129,24,47.0,71.0
+1691430535,Trapping Rain Water,trapping-rain-water,1752028256,java,Accepted,0 ms,46.3 MB,yashwanth1129,0,46.3,46.3
