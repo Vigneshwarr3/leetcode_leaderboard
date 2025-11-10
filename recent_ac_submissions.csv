@@ -36,6 +36,19 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
 1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
+1769696047,Average Selling Price,average-selling-price,1757787418,postgresql,Accepted,227 ms,0.0B,user2464b,227,0.0,227.0
+1616273070,Average Time of Process per Machine,average-time-of-process-per-machine,1745469691,postgresql,Accepted,157 ms,0.0B,user2464b,157,0.0,157.0
+1624490738,Confirmation Rate,confirmation-rate,1746285424,postgresql,Accepted,232 ms,0.0B,user2464b,232,0.0,232.0
+1764143783,Customer Who Visited but Did Not Make Any Transactions,customer-who-visited-but-did-not-make-any-transactions,1757354997,postgresql,Accepted,450 ms,0.0B,user2464b,450,0.0,450.0
+1616278533,Employee Bonus,employee-bonus,1745470100,postgresql,Accepted,319 ms,0.0B,user2464b,319,0.0,319.0
+1761972043,Invalid Tweets,invalid-tweets,1757199284,postgresql,Accepted,337 ms,0.0B,user2464b,337,0.0,337.0
+1624462347,Managers with at Least 5 Direct Reports,managers-with-at-least-5-direct-reports,1746282885,postgresql,Accepted,304 ms,0.0B,user2464b,304,0.0,304.0
+1788519662,Not Boring Movies,not-boring-movies,1759343061,postgresql,Accepted,185 ms,0.0B,user2464b,185,0.0,185.0
+1764057912,Product Sales Analysis I,product-sales-analysis-i,1757351241,postgresql,Accepted,1489 ms,0.0B,user2464b,1489,0.0,1489.0
+1761956997,Recyclable and Low Fat Products,recyclable-and-low-fat-products,1757197114,postgresql,Accepted,283 ms,0.0B,user2464b,283,0.0,283.0
+1764045415,Replace Employee ID With The Unique Identifier,replace-employee-id-with-the-unique-identifier,1757350696,postgresql,Accepted,462 ms,0.0B,user2464b,462,0.0,462.0
+1765170213,Rising Temperature,rising-temperature,1757436799,postgresql,Accepted,235 ms,0.0B,user2464b,235,0.0,235.0
+1619737349,Students and Examinations,students-and-examinations,1745794271,postgresql,Accepted,341 ms,0.0B,user2464b,341,0.0,341.0
 1648463504,3Sum,3sum,1748571944,java,Accepted,28 ms,51.8 MB,yashwanth1129,28,51.8,79.8
 1649333843,4Sum,4sum,1748655248,java,Accepted,16 ms,43.7 MB,yashwanth1129,16,43.7,59.7
 1667815775,Find Subsequence of Length K With the Largest Sum,find-subsequence-of-length-k-with-the-largest-sum,1750220014,java,Accepted,8 ms,44.5 MB,yashwanth1129,8,44.5,52.5
