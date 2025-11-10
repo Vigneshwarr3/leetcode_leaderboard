@@ -90,8 +90,9 @@ def main():
         df['username'] = username
         df_all = pd.concat([df_all, df], ignore_index=True)
 
-    df_all['runtime_val'] = df_all['runtime'].str.replace(' ms', '').astype(int)
-    df_all['memory_val'] = df_all['memory'].str.replace(' MB', '').astype(float)
+
+    df_all['runtime_val'] = df_all['runtime'].apply(lambda x: int(x.split()[0]))
+    df_all['memory_val'] = df_all['memory'].apply(lambda x: float(x.split()[0]))
     df_all.sort_values(by=['username', 'titleSlug', 'runtime_val', 'memory_val'], ascending=[True, True , True, True], inplace=True)
     df_all = df_all.drop_duplicates(subset=['username', 'titleSlug'], keep='first')
     df_all['overall_score'] = df_all['runtime_val'] + df_all['memory_val']
