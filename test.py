@@ -5,8 +5,18 @@ import pandas as pd
 #from cookies import cookies
 import os
 
-cookies = os.getenv('LEETCODE_COOKIES')
-# Define the headers and cookies as given in your template
+cookies_env = os.getenv('LEETCODE_COOKIES')
+    
+if isinstance(cookies_env, str):
+    try:
+        cookies = json.loads(cookies_env)
+    except json.JSONDecodeError:
+        cookies = {}
+else:
+    cookies = cookies_env or {}
+
+# Ensure all cookie values are strings
+cookies = {k: str(v) for k, v in cookies.items()}
 
 headers = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -76,6 +86,7 @@ def main():
     for username in usernames:
         recent_subs = get_recent_ac_submissions(username)
         df = pd.DataFrame(recent_subs)
+        print(len(df))
         df['username'] = username
         df_all = pd.concat([df_all, df], ignore_index=True)
 
