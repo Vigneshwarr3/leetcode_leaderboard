@@ -6,6 +6,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1756561339,Combination Sum II,combination-sum-ii,1756785478,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3,16.0,19.0
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
+1831765167,Is Graph Bipartite?,is-graph-bipartite,1763333617,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
 1819054824,Kth Largest Element in a Stream,kth-largest-element-in-a-stream,1762127162,cpp,Accepted,0 ms,33 MB,Jagath_kumar_reddy_k,0,33.0,33.0
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
 1831002734,Max Area of Island,max-area-of-island,1763269539,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_reddy_k,0,28.2,28.2
