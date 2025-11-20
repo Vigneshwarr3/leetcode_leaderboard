@@ -43,6 +43,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1097620190,Sort Vowels in a String,sort-vowels-in-a-string,1699847768,python3,Accepted,148 ms,24.3 MB,Vigneshwar_RR,148,24.3,172.3
 947940732,Spiral Matrix,spiral-matrix,1683736517,python,Accepted,21 ms,13.3 MB,Vigneshwar_RR,21,13.3,34.3
 946428296,Strictly Palindromic Number,strictly-palindromic-number,1683523567,python,Accepted,21 ms,16.6 MB,Vigneshwar_RR,21,16.6,37.6
+1834740018,Two Sum,two-sum,1763603809,python3,Accepted,0 ms,18.8 MB,Vigneshwar_RR,0,18.8,18.8
 1810672130,Valid Anagram,valid-anagram,1761335784,python3,Accepted,8 ms,17.9 MB,Vigneshwar_RR,8,17.9,25.9
 1829924213,Valid Perfect Square,valid-perfect-square,1763154983,python3,Accepted,0 ms,17.9 MB,Vigneshwar_RR,0,17.9,17.9
 942488298,Valid Sudoku,valid-sudoku,1682926188,python,Accepted,71 ms,13.5 MB,Vigneshwar_RR,71,13.5,84.5
