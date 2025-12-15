@@ -59,6 +59,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1576444670,Divide Array Into Equal Pairs,divide-array-into-equal-pairs,1742192350,cpp,Accepted,3 ms,18.1 MB,_Greenleaf,3,18.1,21.1
 1442075749,Divide Players Into Teams of Equal Skill,divide-players-into-teams-of-equal-skill,1730664127,cpp,Accepted,23 ms,56.3 MB,_Greenleaf,23,56.3,79.3
 1534399346,Find the Number of Distinct Colors Among the Balls,find-the-number-of-distinct-colors-among-the-balls,1738907693,cpp,Accepted,114 ms,157.6 MB,_Greenleaf,114,157.6,271.6
+1855728365,Longest Common Prefix,longest-common-prefix,1765747139,cpp,Accepted,0 ms,11.7 MB,_Greenleaf,0,11.7,11.7
 1456781986,Maximum Sum of Distinct Subarrays With Length K,maximum-sum-of-distinct-subarrays-with-length-k,1731983227,cpp,Accepted,246 ms,105.3 MB,_Greenleaf,246,105.3,351.3
 1416534778,Minimum Add to Make Parentheses Valid,minimum-add-to-make-parentheses-valid,1728444317,cpp,Accepted,3 ms,7.7 MB,_Greenleaf,3,7.7,10.7
 1414299220,Minimum String Length After Removing Substrings,minimum-string-length-after-removing-substrings,1728269478,cpp,Accepted,7 ms,11.4 MB,_Greenleaf,7,11.4,18.4
