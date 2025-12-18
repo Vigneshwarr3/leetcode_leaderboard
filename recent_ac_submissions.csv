@@ -4,11 +4,15 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1804700323,Coin Change II,coin-change-ii,1760761619,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165,42.0,207.0
 1748366823,Combination Sum,combination-sum,1756170279,cpp,Accepted,3 ms,17.9 MB,Jagath_kumar_reddy_k,3,17.9,20.9
 1756561339,Combination Sum II,combination-sum-ii,1756785478,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3,16.0,19.0
+1858549225,Count Salary Categories,count-salary-categories,1766030427,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595,0.0,1595.0
+1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
+1858455611,Course Schedule II,course-schedule-ii,1766015535,cpp,Accepted,11 ms,19.1 MB,Jagath_kumar_reddy_k,11,19.1,30.1
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
 1831765167,Is Graph Bipartite?,is-graph-bipartite,1763333617,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
 1819054824,Kth Largest Element in a Stream,kth-largest-element-in-a-stream,1762127162,cpp,Accepted,0 ms,33 MB,Jagath_kumar_reddy_k,0,33.0,33.0
+1858537673,Last Person to Fit in the Bus,last-person-to-fit-in-the-bus,1766029140,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809,0.0,809.0
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
 1831002734,Max Area of Island,max-area-of-island,1763269539,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_reddy_k,0,28.2,28.2
 1751760547,Maximum Number of Non-overlapping Palindrome Substrings,maximum-number-of-non-overlapping-palindrome-substrings,1756412070,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
@@ -17,6 +21,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
+1858483394,Redundant Connection,redundant-connection,1766020787,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4,14.4,18.4
 1819022073,Regular Expression Matching,regular-expression-matching,1762122123,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3,9.1,12.1
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
