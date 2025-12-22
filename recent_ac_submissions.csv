@@ -18,6 +18,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1751760547,Maximum Number of Non-overlapping Palindrome Substrings,maximum-number-of-non-overlapping-palindrome-substrings,1756412070,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
 1757655158,Maximum Product Subarray,maximum-product-subarray,1756861190,cpp,Accepted,1 ms,17.6 MB,Jagath_kumar_reddy_k,1,17.6,18.6
 1766611110,Maximum Sum With at Most K Elements,maximum-sum-with-at-most-k-elements,1757552841,cpp,Accepted,95 ms,107.9 MB,Jagath_kumar_reddy_k,95,107.9,202.9
+1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
 1861194743,Minimum Deletion Cost to Make All Characters Equal,minimum-deletion-cost-to-make-all-characters-equal,1766288679,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363,30.5,393.5
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
