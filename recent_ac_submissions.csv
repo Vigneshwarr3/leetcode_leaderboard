@@ -6,7 +6,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1756561339,Combination Sum II,combination-sum-ii,1756785478,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3,16.0,19.0
 1858549225,Count Salary Categories,count-salary-categories,1766030427,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595,0.0,1595.0
 1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
-1858455611,Course Schedule II,course-schedule-ii,1766015535,cpp,Accepted,11 ms,19.1 MB,Jagath_kumar_reddy_k,11,19.1,30.1
+1862537746,Course Schedule II,course-schedule-ii,1766418487,cpp,Accepted,7 ms,18.3 MB,Jagath_kumar_reddy_k,7,18.3,25.3
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
@@ -21,6 +21,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
 1861194743,Minimum Deletion Cost to Make All Characters Equal,minimum-deletion-cost-to-make-all-characters-equal,1766288679,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363,30.5,393.5
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
+1862596528,Network Delay Time,network-delay-time,1766422242,cpp,Accepted,472 ms,84.1 MB,Jagath_kumar_reddy_k,472,84.1,556.1
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
