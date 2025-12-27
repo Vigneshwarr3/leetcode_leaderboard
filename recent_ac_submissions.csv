@@ -1,5 +1,6 @@
 id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_val,memory_val,overall_score
 1804690488,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1760760385,cpp,Accepted,0 ms,15 MB,Jagath_kumar_reddy_k,0,15.0,15.0
+1866009705,Clone Graph,clone-graph,1766768963,cpp,Accepted,0 ms,11.7 MB,Jagath_kumar_reddy_k,0,11.7,11.7
 1749540294,Coin Change,coin-change,1756243201,cpp,Accepted,23 ms,17.9 MB,Jagath_kumar_reddy_k,23,17.9,40.9
 1804700323,Coin Change II,coin-change-ii,1760761619,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165,42.0,207.0
 1748366823,Combination Sum,combination-sum,1756170279,cpp,Accepted,3 ms,17.9 MB,Jagath_kumar_reddy_k,3,17.9,20.9
@@ -41,7 +42,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1829917768,Binary Search,binary-search,1763154020,python3,Accepted,0 ms,18.9 MB,Vigneshwar_RR,0,18.9,18.9
 943329928,Combination Sum,combination-sum,1683045286,python,Accepted,42 ms,13.3 MB,Vigneshwar_RR,42,13.3,55.3
 941963384,Container With Most Water,container-with-most-water,1682834793,python,Accepted,562 ms,23.9 MB,Vigneshwar_RR,562,23.9,585.9
-1677643575,Contains Duplicate,contains-duplicate,1750968050,python3,Accepted,16 ms,31.5 MB,Vigneshwar_RR,16,31.5,47.5
+1865849467,Contains Duplicate,contains-duplicate,1766756695,python3,Accepted,12 ms,28.9 MB,Vigneshwar_RR,12,28.9,40.9
 943769548,Find the Difference of Two Arrays,find-the-difference-of-two-arrays,1683113527,python,Accepted,146 ms,13.7 MB,Vigneshwar_RR,146,13.7,159.7
 953200203,Find the Index of the First Occurrence in a String,find-the-index-of-the-first-occurrence-in-a-string,1684480852,python,Accepted,17 ms,13.5 MB,Vigneshwar_RR,17,13.5,30.5
 942627264,Generate Parentheses,generate-parentheses,1682946563,python,Accepted,15 ms,13.8 MB,Vigneshwar_RR,15,13.8,28.8
@@ -56,7 +57,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 947940732,Spiral Matrix,spiral-matrix,1683736517,python,Accepted,21 ms,13.3 MB,Vigneshwar_RR,21,13.3,34.3
 946428296,Strictly Palindromic Number,strictly-palindromic-number,1683523567,python,Accepted,21 ms,16.6 MB,Vigneshwar_RR,21,16.6,37.6
 1834740018,Two Sum,two-sum,1763603809,python3,Accepted,0 ms,18.8 MB,Vigneshwar_RR,0,18.8,18.8
-1810672130,Valid Anagram,valid-anagram,1761335784,python3,Accepted,8 ms,17.9 MB,Vigneshwar_RR,8,17.9,25.9
+1865874008,Valid Anagram,valid-anagram,1766758658,python3,Accepted,8 ms,17.7 MB,Vigneshwar_RR,8,17.7,25.7
 1829924213,Valid Perfect Square,valid-perfect-square,1763154983,python3,Accepted,0 ms,17.9 MB,Vigneshwar_RR,0,17.9,17.9
 942488298,Valid Sudoku,valid-sudoku,1682926188,python,Accepted,71 ms,13.5 MB,Vigneshwar_RR,71,13.5,84.5
 1529068978,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,1738529984,cpp,Accepted,0 ms,11.2 MB,_Greenleaf,0,11.2,11.2
