@@ -1,5 +1,6 @@
 id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_val,memory_val,overall_score
 1804690488,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1760760385,cpp,Accepted,0 ms,15 MB,Jagath_kumar_reddy_k,0,15.0,15.0
+1869729995,Cheapest Flights Within K Stops,cheapest-flights-within-k-stops,1767125572,cpp,Accepted,10 ms,21.1 MB,Jagath_kumar_reddy_k,10,21.1,31.1
 1866009705,Clone Graph,clone-graph,1766768963,cpp,Accepted,0 ms,11.7 MB,Jagath_kumar_reddy_k,0,11.7,11.7
 1749540294,Coin Change,coin-change,1756243201,cpp,Accepted,23 ms,17.9 MB,Jagath_kumar_reddy_k,23,17.9,40.9
 1804700323,Coin Change II,coin-change-ii,1760761619,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165,42.0,207.0
@@ -40,6 +41,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1809026532,Target Sum,target-sum,1761186218,cpp,Accepted,30 ms,26 MB,Jagath_kumar_reddy_k,30,26.0,56.0
 1800905598,Unique Paths,unique-paths,1760408684,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1,9.4,10.4
 1763099005,Word Break,word-break,1757277757,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
+1869546933,Word Ladder,word-ladder,1767111730,cpp,Accepted,58 ms,22.7 MB,Jagath_kumar_reddy_k,58,22.7,80.7
 939811863,Add Digits,add-digits,1682476232,python,Accepted,17 ms,13.3 MB,Vigneshwar_RR,17,13.3,30.3
 1810688695,Best Time to Buy and Sell Stock,best-time-to-buy-and-sell-stock,1761337698,python3,Accepted,27 ms,27 MB,Vigneshwar_RR,27,27.0,54.0
 1829917768,Binary Search,binary-search,1763154020,python3,Accepted,0 ms,18.9 MB,Vigneshwar_RR,0,18.9,18.9
