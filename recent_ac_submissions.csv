@@ -10,7 +10,9 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
 1862537746,Course Schedule II,course-schedule-ii,1766418487,cpp,Accepted,7 ms,18.3 MB,Jagath_kumar_reddy_k,7,18.3,25.3
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
+1872463183,Design Twitter,design-twitter,1767384649,cpp,Accepted,1 ms,57.4 MB,Jagath_kumar_reddy_k,1,57.4,58.4
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
+1872656909,Find Median from Data Stream,find-median-from-data-stream,1767412980,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,64,148.7,212.7
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
 1831765167,Is Graph Bipartite?,is-graph-bipartite,1763333617,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
 1871283447,K Closest Points to Origin,k-closest-points-to-origin,1767290455,cpp,Accepted,22 ms,61.8 MB,Jagath_kumar_reddy_k,22,61.8,83.8
