@@ -6,6 +6,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1804700323,Coin Change II,coin-change-ii,1760761619,cpp,Accepted,165 ms,42 MB,Jagath_kumar_reddy_k,165,42.0,207.0
 1748366823,Combination Sum,combination-sum,1756170279,cpp,Accepted,3 ms,17.9 MB,Jagath_kumar_reddy_k,3,17.9,20.9
 1756561339,Combination Sum II,combination-sum-ii,1756785478,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3,16.0,19.0
+1874610633,Contains Duplicate,contains-duplicate,1767556086,cpp,Accepted,47 ms,90.7 MB,Jagath_kumar_reddy_k,47,90.7,137.7
 1858549225,Count Salary Categories,count-salary-categories,1766030427,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595,0.0,1595.0
 1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
 1862537746,Course Schedule II,course-schedule-ii,1766418487,cpp,Accepted,7 ms,18.3 MB,Jagath_kumar_reddy_k,7,18.3,25.3
@@ -13,6 +14,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1872463183,Design Twitter,design-twitter,1767384649,cpp,Accepted,1 ms,57.4 MB,Jagath_kumar_reddy_k,1,57.4,58.4
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1872656909,Find Median from Data Stream,find-median-from-data-stream,1767412980,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,64,148.7,212.7
+1874645577,Group Anagrams,group-anagrams,1767559803,cpp,Accepted,15 ms,25 MB,Jagath_kumar_reddy_k,15,25.0,40.0
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
 1831765167,Is Graph Bipartite?,is-graph-bipartite,1763333617,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
 1871283447,K Closest Points to Origin,k-closest-points-to-origin,1767290455,cpp,Accepted,22 ms,61.8 MB,Jagath_kumar_reddy_k,22,61.8,83.8
@@ -22,6 +24,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1858537673,Last Person to Fit in the Bus,last-person-to-fit-in-the-bus,1766029140,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809,0.0,809.0
 1871233902,Last Stone Weight,last-stone-weight,1767287625,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,0,10.0,10.0
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
+1874856578,Longest Consecutive Sequence,longest-consecutive-sequence,1767586949,cpp,Accepted,79 ms,89.1 MB,Jagath_kumar_reddy_k,79,89.1,168.1
 1870728453,Longest Turbulent Subarray,longest-turbulent-subarray,1767245767,cpp,Accepted,0 ms,44.1 MB,Jagath_kumar_reddy_k,0,44.1,44.1
 1831002734,Max Area of Island,max-area-of-island,1763269539,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_reddy_k,0,28.2,28.2
 1870679398,Maximum Absolute Sum of Any Subarray,maximum-absolute-sum-of-any-subarray,1767239768,cpp,Accepted,0 ms,45.1 MB,Jagath_kumar_reddy_k,0,45.1,45.1
@@ -40,6 +43,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
+1874672335,Product of Array Except Self,product-of-array-except-self,1767563173,cpp,Accepted,0 ms,40.3 MB,Jagath_kumar_reddy_k,0,40.3,40.3
 1870693278,Range Sum of Sorted Subarray Sums,range-sum-of-sorted-subarray-sums,1767241643,cpp,Accepted,86 ms,27 MB,Jagath_kumar_reddy_k,86,27.0,113.0
 1864799872,Reconstruct Itinerary,reconstruct-itinerary,1766649798,cpp,Accepted,12 ms,21.1 MB,Jagath_kumar_reddy_k,12,21.1,33.1
 1858483394,Redundant Connection,redundant-connection,1766020787,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4,14.4,18.4
@@ -47,12 +51,18 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
 1873161040,Reverse String Prefix,reverse-string-prefix,1767451009,python3,Accepted,0 ms,17.5 MB,Jagath_kumar_reddy_k,0,17.5,17.5
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
+1874746783,Single Number,single-number,1767574336,cpp,Accepted,0 ms,21 MB,Jagath_kumar_reddy_k,0,21.0,21.0
 1758810433,Subsets II,subsets-ii,1756949281,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0,10.6,10.6
 1853052646,Surrounded Regions,surrounded-regions,1765469563,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11,20.7,31.7
 1867012461,Swim in Rising Water,swim-in-rising-water,1766875187,cpp,Accepted,0 ms,12.7 MB,Jagath_kumar_reddy_k,0,12.7,12.7
 1809026532,Target Sum,target-sum,1761186218,cpp,Accepted,30 ms,26 MB,Jagath_kumar_reddy_k,30,26.0,56.0
 1871446979,Task Scheduler,task-scheduler,1767308741,cpp,Accepted,19 ms,42.9 MB,Jagath_kumar_reddy_k,19,42.9,61.9
+1874661406,Top K Frequent Elements,top-k-frequent-elements,1767561719,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
+1874624045,Two Sum,two-sum,1767557422,cpp,Accepted,0 ms,14.7 MB,Jagath_kumar_reddy_k,0,14.7,14.7
+1874628651,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1767557905,cpp,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,0,19.4,19.4
 1800905598,Unique Paths,unique-paths,1760408684,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1,9.4,10.4
+1874615261,Valid Anagram,valid-anagram,1767556527,cpp,Accepted,0 ms,9.6 MB,Jagath_kumar_reddy_k,0,9.6,9.6
+1874755246,Valid Sudoku,valid-sudoku,1767575568,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,0,21.7,21.7
 1763099005,Word Break,word-break,1757277757,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
 1869546933,Word Ladder,word-ladder,1767111730,cpp,Accepted,58 ms,22.7 MB,Jagath_kumar_reddy_k,58,22.7,80.7
 939811863,Add Digits,add-digits,1682476232,python,Accepted,17 ms,13.3 MB,Vigneshwar_RR,17,13.3,30.3
@@ -114,7 +124,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
 1823628459,Reverse Linked List,reverse-linked-list,1762551773,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1823371479,Squares of a Sorted Array,squares-of-a-sorted-array,1762528882,python3,Accepted,7 ms,19.3 MB,madhavan02,7,19.3,26.3
-1871450597,Two Sum,two-sum,1767309408,python3,Accepted,4 ms,18.8 MB,madhavan02,4,18.8,22.8
+1874707978,Two Sum,two-sum,1767568386,python3,Accepted,0 ms,18.4 MB,madhavan02,0,18.4,18.4
 1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
 1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
