@@ -24,6 +24,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1873721285,Largest Even Number,largest-even-number,1767497751,python3,Accepted,0 ms,17.4 MB,Jagath_kumar_reddy_k,0,17.4,17.4
 1858537673,Last Person to Fit in the Bus,last-person-to-fit-in-the-bus,1766029140,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809,0.0,809.0
 1871233902,Last Stone Weight,last-stone-weight,1767287625,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,0,10.0,10.0
+1877019090,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,1767746450,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
 1874856578,Longest Consecutive Sequence,longest-consecutive-sequence,1767586949,cpp,Accepted,79 ms,89.1 MB,Jagath_kumar_reddy_k,79,89.1,168.1
 1870728453,Longest Turbulent Subarray,longest-turbulent-subarray,1767245767,cpp,Accepted,0 ms,44.1 MB,Jagath_kumar_reddy_k,0,44.1,44.1
@@ -40,8 +41,10 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
 1861194743,Minimum Deletion Cost to Make All Characters Equal,minimum-deletion-cost-to-make-all-characters-equal,1766288679,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363,30.5,393.5
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
+1877064697,N-Queens,n-queens,1767752606,cpp,Accepted,0 ms,10.1 MB,Jagath_kumar_reddy_k,0,10.1,10.1
 1863493710,Network Delay Time,network-delay-time,1766508628,cpp,Accepted,94 ms,48 MB,Jagath_kumar_reddy_k,94,48.0,142.0
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
+1876817727,Palindrome Partitioning,palindrome-partitioning,1767723798,cpp,Accepted,26 ms,53.5 MB,Jagath_kumar_reddy_k,26,53.5,79.5
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
 1874672335,Product of Array Except Self,product-of-array-except-self,1767563173,cpp,Accepted,0 ms,40.3 MB,Jagath_kumar_reddy_k,0,40.3,40.3
@@ -122,6 +125,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
 1817151011,Longest Palindromic Substring,longest-palindromic-substring,1761939585,python3,Accepted,363 ms,18 MB,madhavan02,363,18.0,381.0
 1873653978,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1767486635,python,Accepted,23 ms,13.3 MB,madhavan02,23,13.3,36.3
+1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
