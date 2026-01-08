@@ -18,6 +18,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1874645577,Group Anagrams,group-anagrams,1767559803,cpp,Accepted,15 ms,25 MB,Jagath_kumar_reddy_k,15,25.0,40.0
 1813678172,Interleaving String,interleaving-string,1761624418,cpp,Accepted,5 ms,9 MB,Jagath_kumar_reddy_k,5,9.0,14.0
 1831765167,Is Graph Bipartite?,is-graph-bipartite,1763333617,cpp,Accepted,0 ms,18 MB,Jagath_kumar_reddy_k,0,18.0,18.0
+1878022995,Jump Game,jump-game,1767814184,cpp,Accepted,0 ms,52.1 MB,Jagath_kumar_reddy_k,0,52.1,52.1
+1878059809,Jump Game II,jump-game-ii,1767817646,cpp,Accepted,33 ms,21.7 MB,Jagath_kumar_reddy_k,33,21.7,54.7
 1871283447,K Closest Points to Origin,k-closest-points-to-origin,1767290455,cpp,Accepted,22 ms,61.8 MB,Jagath_kumar_reddy_k,22,61.8,83.8
 1819054824,Kth Largest Element in a Stream,kth-largest-element-in-a-stream,1762127162,cpp,Accepted,0 ms,33 MB,Jagath_kumar_reddy_k,0,33.0,33.0
 1871295203,Kth Largest Element in an Array,kth-largest-element-in-an-array,1767291150,cpp,Accepted,0 ms,59.4 MB,Jagath_kumar_reddy_k,0,59.4,59.4
@@ -128,6 +130,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
+1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
 1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
 1823628459,Reverse Linked List,reverse-linked-list,1762551773,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1823371479,Squares of a Sorted Array,squares-of-a-sorted-array,1762528882,python3,Accepted,7 ms,19.3 MB,madhavan02,7,19.3,26.3
