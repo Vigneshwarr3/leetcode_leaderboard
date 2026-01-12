@@ -42,6 +42,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1870609676,Maximum Score Of Spliced Array,maximum-score-of-spliced-array,1767225797,cpp,Accepted,1 ms,86.4 MB,Jagath_kumar_reddy_k,1,86.4,87.4
 1870597354,Maximum Subarray,maximum-subarray,1767222867,cpp,Accepted,0 ms,71.6 MB,Jagath_kumar_reddy_k,0,71.6,71.6
 1766611110,Maximum Sum With at Most K Elements,maximum-sum-with-at-most-k-elements,1757552841,cpp,Accepted,95 ms,107.9 MB,Jagath_kumar_reddy_k,95,107.9,202.9
+1881990403,Merge Triplets to Form Target Triplet,merge-triplets-to-form-target-triplet,1768150104,cpp,Accepted,0 ms,150.6 MB,Jagath_kumar_reddy_k,0,150.6,150.6
 1865521104,Min Cost to Connect All Points,min-cost-to-connect-all-points,1766727696,cpp,Accepted,463 ms,41.4 MB,Jagath_kumar_reddy_k,463,41.4,504.4
 1867833549,Minimum Cost to Acquire Required Items,minimum-cost-to-acquire-required-items,1766947848,cpp,Accepted,0 ms,9.1 MB,Jagath_kumar_reddy_k,0,9.1,9.1
 1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
