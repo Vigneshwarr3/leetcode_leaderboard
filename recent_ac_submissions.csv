@@ -56,7 +56,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
 1874672335,Product of Array Except Self,product-of-array-except-self,1767563173,cpp,Accepted,0 ms,40.3 MB,Jagath_kumar_reddy_k,0,40.3,40.3
 1870693278,Range Sum of Sorted Subarray Sums,range-sum-of-sorted-subarray-sums,1767241643,cpp,Accepted,86 ms,27 MB,Jagath_kumar_reddy_k,86,27.0,113.0
-1864799872,Reconstruct Itinerary,reconstruct-itinerary,1766649798,cpp,Accepted,12 ms,21.1 MB,Jagath_kumar_reddy_k,12,21.1,33.1
+1883033235,Reconstruct Itinerary,reconstruct-itinerary,1768237953,cpp,Accepted,5 ms,19.5 MB,Jagath_kumar_reddy_k,5,19.5,24.5
 1858483394,Redundant Connection,redundant-connection,1766020787,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4,14.4,18.4
 1819022073,Regular Expression Matching,regular-expression-matching,1762122123,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3,9.1,12.1
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
@@ -131,6 +131,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1817939231,Decode Ways,decode-ways,1762021121,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
 1824567270,Interleaving String,interleaving-string,1762647503,python3,Accepted,52 ms,17.9 MB,madhavan02,52,17.9,69.9
 1820131686,Longest Common Subsequence,longest-common-subsequence,1762225997,python3,Accepted,459 ms,42.9 MB,madhavan02,459,42.9,501.9
+1883319525,Longest Consecutive Sequence,longest-consecutive-sequence,1768265958,python3,Accepted,57 ms,36.6 MB,madhavan02,57,36.6,93.6
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
 1817151011,Longest Palindromic Substring,longest-palindromic-substring,1761939585,python3,Accepted,363 ms,18 MB,madhavan02,363,18.0,381.0
 1873653978,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1767486635,python,Accepted,23 ms,13.3 MB,madhavan02,23,13.3,36.3
@@ -138,13 +139,16 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
+1883268714,Product of Array Except Self,product-of-array-except-self,1768257326,python3,Accepted,26 ms,27 MB,madhavan02,26,27.0,53.0
 1881177770,Regular Expression Matching,regular-expression-matching,1768087495,python3,Accepted,8 ms,19.4 MB,madhavan02,8,19.4,27.4
 1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
 1823628459,Reverse Linked List,reverse-linked-list,1762551773,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
+1883258134,Rotting Oranges,rotting-oranges,1768255688,python3,Accepted,1 ms,19.4 MB,madhavan02,1,19.4,20.4
 1823371479,Squares of a Sorted Array,squares-of-a-sorted-array,1762528882,python3,Accepted,7 ms,19.3 MB,madhavan02,7,19.3,26.3
 1874707978,Two Sum,two-sum,1767568386,python3,Accepted,0 ms,18.4 MB,madhavan02,0,18.4,18.4
 1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
+1883051189,Valid Sudoku,valid-sudoku,1768238845,python3,Accepted,5 ms,19.5 MB,madhavan02,5,19.5,24.5
 1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
 1769696047,Average Selling Price,average-selling-price,1757787418,postgresql,Accepted,227 ms,0.0B,user2464b,227,0.0,227.0
 1616273070,Average Time of Process per Machine,average-time-of-process-per-machine,1745469691,postgresql,Accepted,157 ms,0.0B,user2464b,157,0.0,157.0
