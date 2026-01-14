@@ -137,6 +137,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1873653978,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1767486635,python,Accepted,23 ms,13.3 MB,madhavan02,23,13.3,36.3
 1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
+1883957798,Move Zeroes,move-zeroes,1768318970,python3,Accepted,9 ms,20.6 MB,madhavan02,9,20.6,29.6
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
 1883268714,Product of Array Except Self,product-of-array-except-self,1768257326,python3,Accepted,26 ms,27 MB,madhavan02,26,27.0,53.0
@@ -148,6 +149,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1874707978,Two Sum,two-sum,1767568386,python3,Accepted,0 ms,18.4 MB,madhavan02,0,18.4,18.4
 1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
+1883936045,Valid Palindrome,valid-palindrome,1768317673,python3,Accepted,11 ms,19.6 MB,madhavan02,11,19.6,30.6
 1883051189,Valid Sudoku,valid-sudoku,1768238845,python3,Accepted,5 ms,19.5 MB,madhavan02,5,19.5,24.5
 1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
 1769696047,Average Selling Price,average-selling-price,1757787418,postgresql,Accepted,227 ms,0.0B,user2464b,227,0.0,227.0
