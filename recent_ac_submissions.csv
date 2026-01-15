@@ -122,6 +122,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1649387777,Snakes and Ladders,snakes-and-ladders,1748663884,cpp,Accepted,0 ms,17.7 MB,_Greenleaf,0,17.7,17.7
 1527006517,Special Array I,special-array-i,1738383166,cpp,Accepted,0 ms,27.7 MB,_Greenleaf,0,27.7,27.7
 1879256845,Add Two Numbers,add-two-numbers,1767918620,python,Accepted,0 ms,12.6 MB,madhavan02,0,12.6,12.6
+1885754901,Balanced Binary Tree,balanced-binary-tree,1768477616,python,Accepted,4 ms,18 MB,madhavan02,4,18.0,22.0
 1820624709,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1762269201,python3,Accepted,0 ms,18.2 MB,madhavan02,0,18.2,18.2
 1875862954,Climbing Stairs,climbing-stairs,1767660900,python3,Accepted,0 ms,16.9 MB,madhavan02,0,16.9,16.9
 1817984312,Coin Change,coin-change,1762024524,python3,Accepted,740 ms,18.1 MB,madhavan02,740,18.1,758.1
@@ -134,9 +135,10 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1883319525,Longest Consecutive Sequence,longest-consecutive-sequence,1768265958,python3,Accepted,57 ms,36.6 MB,madhavan02,57,36.6,93.6
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
 1817151011,Longest Palindromic Substring,longest-palindromic-substring,1761939585,python3,Accepted,363 ms,18 MB,madhavan02,363,18.0,381.0
-1873653978,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1767486635,python,Accepted,23 ms,13.3 MB,madhavan02,23,13.3,36.3
+1885716048,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1768474400,python3,Accepted,15 ms,19.5 MB,madhavan02,15,19.5,34.5
 1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
+1885748073,Minimum Size Subarray Sum,minimum-size-subarray-sum,1768477042,python3,Accepted,7 ms,30.6 MB,madhavan02,7,30.6,37.6
 1883957798,Move Zeroes,move-zeroes,1768318970,python3,Accepted,9 ms,20.6 MB,madhavan02,9,20.6,29.6
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
