@@ -33,6 +33,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1877019090,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,1767746450,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
 1874856578,Longest Consecutive Sequence,longest-consecutive-sequence,1767586949,cpp,Accepted,79 ms,89.1 MB,Jagath_kumar_reddy_k,79,89.1,168.1
+1886165888,Longest Increasing Path in a Matrix,longest-increasing-path-in-a-matrix,1768503657,cpp,Accepted,0 ms,19.7 MB,Jagath_kumar_reddy_k,0,19.7,19.7
 1870728453,Longest Turbulent Subarray,longest-turbulent-subarray,1767245767,cpp,Accepted,0 ms,44.1 MB,Jagath_kumar_reddy_k,0,44.1,44.1
 1831002734,Max Area of Island,max-area-of-island,1763269539,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_reddy_k,0,28.2,28.2
 1870679398,Maximum Absolute Sum of Any Subarray,maximum-absolute-sum-of-any-subarray,1767239768,cpp,Accepted,0 ms,45.1 MB,Jagath_kumar_reddy_k,0,45.1,45.1
@@ -129,6 +130,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1820974898,Coin Change II,coin-change-ii,1762297503,python3,Accepted,187 ms,17.8 MB,madhavan02,187,17.8,204.8
 1823609770,Container With Most Water,container-with-most-water,1762549093,python3,Accepted,35 ms,28.4 MB,madhavan02,35,28.4,63.4
 1881652703,Contains Duplicate,contains-duplicate,1768125925,python3,Accepted,12 ms,32.4 MB,madhavan02,12,32.4,44.4
+1886326187,Daily Temperatures,daily-temperatures,1768524134,python3,Accepted,107 ms,35.1 MB,madhavan02,107,35.1,142.1
 1817939231,Decode Ways,decode-ways,1762021121,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
 1824567270,Interleaving String,interleaving-string,1762647503,python3,Accepted,52 ms,17.9 MB,madhavan02,52,17.9,69.9
 1820131686,Longest Common Subsequence,longest-common-subsequence,1762225997,python3,Accepted,459 ms,42.9 MB,madhavan02,459,42.9,501.9
@@ -140,6 +142,9 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
 1885748073,Minimum Size Subarray Sum,minimum-size-subarray-sum,1768477042,python3,Accepted,7 ms,30.6 MB,madhavan02,7,30.6,37.6
 1883957798,Move Zeroes,move-zeroes,1768318970,python3,Accepted,9 ms,20.6 MB,madhavan02,9,20.6,29.6
+1886349824,Next Greater Element I,next-greater-element-i,1768527978,python3,Accepted,0 ms,19.5 MB,madhavan02,0,19.5,19.5
+1886391110,Next Greater Element II,next-greater-element-ii,1768533642,python3,Accepted,27 ms,21.1 MB,madhavan02,27,21.1,48.1
+1886406862,Online Stock Span,online-stock-span,1768535412,python3,Accepted,60 ms,24.4 MB,madhavan02,60,24.4,84.4
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
 1883268714,Product of Array Except Self,product-of-array-except-self,1768257326,python3,Accepted,26 ms,27 MB,madhavan02,26,27.0,53.0
