@@ -13,6 +13,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
 1862537746,Course Schedule II,course-schedule-ii,1766418487,cpp,Accepted,7 ms,18.3 MB,Jagath_kumar_reddy_k,7,18.3,25.3
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
+1888577573,Design Auction System,design-auction-system,1768715399,cpp,Accepted,189 ms,362.9 MB,Jagath_kumar_reddy_k,189,362.9,551.9
 1872463183,Design Twitter,design-twitter,1767384649,cpp,Accepted,1 ms,57.4 MB,Jagath_kumar_reddy_k,1,57.4,58.4
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1887023275,Distinct Subsequences,distinct-subsequences,1768583322,cpp,Accepted,37 ms,44.2 MB,Jagath_kumar_reddy_k,37,44.2,81.2
@@ -38,6 +39,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1870728453,Longest Turbulent Subarray,longest-turbulent-subarray,1767245767,cpp,Accepted,0 ms,44.1 MB,Jagath_kumar_reddy_k,0,44.1,44.1
 1831002734,Max Area of Island,max-area-of-island,1763269539,cpp,Accepted,0 ms,28.2 MB,Jagath_kumar_reddy_k,0,28.2,28.2
 1870679398,Maximum Absolute Sum of Any Subarray,maximum-absolute-sum-of-any-subarray,1767239768,cpp,Accepted,0 ms,45.1 MB,Jagath_kumar_reddy_k,0,45.1,45.1
+1889178056,Maximum Capacity Within Budget,maximum-capacity-within-budget,1768760632,cpp,Accepted,89 ms,272.3 MB,Jagath_kumar_reddy_k,89,272.3,361.3
 1751760547,Maximum Number of Non-overlapping Palindrome Substrings,maximum-number-of-non-overlapping-palindrome-substrings,1756412070,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
 1757655158,Maximum Product Subarray,maximum-product-subarray,1756861190,cpp,Accepted,1 ms,17.6 MB,Jagath_kumar_reddy_k,1,17.6,18.6
 1867804670,Maximum Score of a Split,maximum-score-of-a-split,1766945451,cpp,Accepted,7 ms,156.1 MB,Jagath_kumar_reddy_k,7,156.1,163.1
@@ -76,6 +78,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1800905598,Unique Paths,unique-paths,1760408684,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1,9.4,10.4
 1874615261,Valid Anagram,valid-anagram,1767556527,cpp,Accepted,0 ms,9.6 MB,Jagath_kumar_reddy_k,0,9.6,9.6
 1874755246,Valid Sudoku,valid-sudoku,1767575568,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,0,21.7,21.7
+1888368662,Vowel-Consonant Score,vowel-consonant-score,1768703828,cpp,Accepted,0 ms,9.3 MB,Jagath_kumar_reddy_k,0,9.3,9.3
 1763099005,Word Break,word-break,1757277757,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
 1869546933,Word Ladder,word-ladder,1767111730,cpp,Accepted,58 ms,22.7 MB,Jagath_kumar_reddy_k,58,22.7,80.7
 1875743310,Word Search,word-search,1767644229,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
@@ -137,6 +140,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1887315881,Find Minimum in Rotated Sorted Array,find-minimum-in-rotated-sorted-array,1768616788,python3,Accepted,0 ms,19.5 MB,madhavan02,0,19.5,19.5
 1887324987,Find Minimum in Rotated Sorted Array II,find-minimum-in-rotated-sorted-array-ii,1768618399,python3,Accepted,0 ms,19.6 MB,madhavan02,0,19.6,19.6
 1824567270,Interleaving String,interleaving-string,1762647503,python3,Accepted,52 ms,17.9 MB,madhavan02,52,17.9,69.9
+1889346718,Linked List Cycle,linked-list-cycle,1768780294,python3,Accepted,60 ms,22.5 MB,madhavan02,60,22.5,82.5
+1889353423,Linked List Cycle II,linked-list-cycle-ii,1768781407,python3,Accepted,56 ms,22.5 MB,madhavan02,56,22.5,78.5
 1820131686,Longest Common Subsequence,longest-common-subsequence,1762225997,python3,Accepted,459 ms,42.9 MB,madhavan02,459,42.9,501.9
 1883319525,Longest Consecutive Sequence,longest-consecutive-sequence,1768265958,python3,Accepted,57 ms,36.6 MB,madhavan02,57,36.6,93.6
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
