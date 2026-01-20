@@ -57,6 +57,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
 1876817727,Palindrome Partitioning,palindrome-partitioning,1767723798,cpp,Accepted,26 ms,53.5 MB,Jagath_kumar_reddy_k,26,53.5,79.5
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
+1890228976,Partition Labels,partition-labels,1768846910,cpp,Accepted,0 ms,9.2 MB,Jagath_kumar_reddy_k,0,9.2,9.2
 1758694928,Permutations,permutations,1756932927,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
 1874672335,Product of Array Except Self,product-of-array-except-self,1767563173,cpp,Accepted,0 ms,40.3 MB,Jagath_kumar_reddy_k,0,40.3,40.3
 1870693278,Range Sum of Sorted Subarray Sums,range-sum-of-sorted-subarray-sums,1767241643,cpp,Accepted,86 ms,27 MB,Jagath_kumar_reddy_k,86,27.0,113.0
@@ -130,6 +131,11 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1885754901,Balanced Binary Tree,balanced-binary-tree,1768477616,python,Accepted,4 ms,18 MB,madhavan02,4,18.0,22.0
 1820624709,Best Time to Buy and Sell Stock with Cooldown,best-time-to-buy-and-sell-stock-with-cooldown,1762269201,python3,Accepted,0 ms,18.2 MB,madhavan02,0,18.2,18.2
 1887212050,Binary Search,binary-search,1768597540,python3,Accepted,0 ms,20.7 MB,madhavan02,0,20.7,20.7
+1890441755,Binary Tree Inorder Traversal,binary-tree-inorder-traversal,1768867763,python3,Accepted,0 ms,19.5 MB,madhavan02,0,19.5,19.5
+1890499023,Binary Tree Level Order Traversal,binary-tree-level-order-traversal,1768875348,python3,Accepted,0 ms,20.2 MB,madhavan02,0,20.2,20.2
+1890485967,Binary Tree Postorder Traversal,binary-tree-postorder-traversal,1768873805,python3,Accepted,0 ms,19.5 MB,madhavan02,0,19.5,19.5
+1890484111,Binary Tree Preorder Traversal,binary-tree-preorder-traversal,1768873561,python3,Accepted,0 ms,19.5 MB,madhavan02,0,19.5,19.5
+1890502773,Binary Tree Zigzag Level Order Traversal,binary-tree-zigzag-level-order-traversal,1768875776,python3,Accepted,0 ms,19.6 MB,madhavan02,0,19.6,19.6
 1875862954,Climbing Stairs,climbing-stairs,1767660900,python3,Accepted,0 ms,16.9 MB,madhavan02,0,16.9,16.9
 1817984312,Coin Change,coin-change,1762024524,python3,Accepted,740 ms,18.1 MB,madhavan02,740,18.1,758.1
 1820974898,Coin Change II,coin-change-ii,1762297503,python3,Accepted,187 ms,17.8 MB,madhavan02,187,17.8,204.8
