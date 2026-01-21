@@ -78,6 +78,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1874628651,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1767557905,cpp,Accepted,0 ms,19.4 MB,Jagath_kumar_reddy_k,0,19.4,19.4
 1800905598,Unique Paths,unique-paths,1760408684,cpp,Accepted,1 ms,9.4 MB,Jagath_kumar_reddy_k,1,9.4,10.4
 1874615261,Valid Anagram,valid-anagram,1767556527,cpp,Accepted,0 ms,9.6 MB,Jagath_kumar_reddy_k,0,9.6,9.6
+1891566296,Valid Parenthesis String,valid-parenthesis-string,1768953867,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,0,8.0,8.0
 1874755246,Valid Sudoku,valid-sudoku,1767575568,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,0,21.7,21.7
 1888368662,Vowel-Consonant Score,vowel-consonant-score,1768703828,cpp,Accepted,0 ms,9.3 MB,Jagath_kumar_reddy_k,0,9.3,9.3
 1763099005,Word Break,word-break,1757277757,cpp,Accepted,0 ms,10.4 MB,Jagath_kumar_reddy_k,0,10.4,10.4
