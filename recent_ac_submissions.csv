@@ -18,6 +18,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1887023275,Distinct Subsequences,distinct-subsequences,1768583322,cpp,Accepted,37 ms,44.2 MB,Jagath_kumar_reddy_k,37,44.2,81.2
 1872656909,Find Median from Data Stream,find-median-from-data-stream,1767412980,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,64,148.7,212.7
+1895654057,Find the XOR of Numbers Which Appear Twice,find-the-xor-of-numbers-which-appear-twice,1769279522,cpp,Accepted,0 ms,27.6 MB,Jagath_kumar_reddy_k,0,27.6,27.6
 1879033081,Gas Station,gas-station,1767894977,cpp,Accepted,0 ms,109.8 MB,Jagath_kumar_reddy_k,0,109.8,109.8
 1875555255,Generate Parentheses,generate-parentheses,1767632631,cpp,Accepted,0 ms,12.9 MB,Jagath_kumar_reddy_k,0,12.9,12.9
 1874645577,Group Anagrams,group-anagrams,1767559803,cpp,Accepted,15 ms,25 MB,Jagath_kumar_reddy_k,15,25.0,40.0
@@ -52,6 +53,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1867833549,Minimum Cost to Acquire Required Items,minimum-cost-to-acquire-required-items,1766947848,cpp,Accepted,0 ms,9.1 MB,Jagath_kumar_reddy_k,0,9.1,9.1
 1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
 1861194743,Minimum Deletion Cost to Make All Characters Equal,minimum-deletion-cost-to-make-all-characters-equal,1766288679,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363,30.5,393.5
+1895892365,Minimum Prefix Removal to Make Array Strictly Increasing,minimum-prefix-removal-to-make-array-strictly-increasing,1769308447,cpp,Accepted,0 ms,193.3 MB,Jagath_kumar_reddy_k,0,193.3,193.3
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
 1877064697,N-Queens,n-queens,1767752606,cpp,Accepted,0 ms,10.1 MB,Jagath_kumar_reddy_k,0,10.1,10.1
 1863493710,Network Delay Time,network-delay-time,1766508628,cpp,Accepted,94 ms,48 MB,Jagath_kumar_reddy_k,94,48.0,142.0
@@ -67,8 +69,9 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1819022073,Regular Expression Matching,regular-expression-matching,1762122123,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3,9.1,12.1
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
 1873161040,Reverse String Prefix,reverse-string-prefix,1767451009,python3,Accepted,0 ms,17.5 MB,Jagath_kumar_reddy_k,0,17.5,17.5
+1895952844,Rotate Non Negative Elements,rotate-non-negative-elements,1769310209,cpp,Accepted,29 ms,310.6 MB,Jagath_kumar_reddy_k,29,310.6,339.6
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
-1874746783,Single Number,single-number,1767574336,cpp,Accepted,0 ms,21 MB,Jagath_kumar_reddy_k,0,21.0,21.0
+1895630739,Single Number,single-number,1769278239,cpp,Accepted,0 ms,20.5 MB,Jagath_kumar_reddy_k,0,20.5,20.5
 1758810433,Subsets II,subsets-ii,1756949281,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0,10.6,10.6
 1853052646,Surrounded Regions,surrounded-regions,1765469563,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11,20.7,31.7
 1867012461,Swim in Rising Water,swim-in-rising-water,1766875187,cpp,Accepted,0 ms,12.7 MB,Jagath_kumar_reddy_k,0,12.7,12.7
@@ -153,7 +156,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1820131686,Longest Common Subsequence,longest-common-subsequence,1762225997,python3,Accepted,459 ms,42.9 MB,madhavan02,459,42.9,501.9
 1883319525,Longest Consecutive Sequence,longest-consecutive-sequence,1768265958,python3,Accepted,57 ms,36.6 MB,madhavan02,57,36.6,93.6
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
-1817151011,Longest Palindromic Substring,longest-palindromic-substring,1761939585,python3,Accepted,363 ms,18 MB,madhavan02,363,18.0,381.0
+1895794471,Longest Palindromic Substring,longest-palindromic-substring,1769293829,python3,Accepted,336 ms,19.4 MB,madhavan02,336,19.4,355.4
 1885716048,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1768474400,python3,Accepted,15 ms,19.5 MB,madhavan02,15,19.5,34.5
 1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
