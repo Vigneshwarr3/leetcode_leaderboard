@@ -57,6 +57,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
 1877064697,N-Queens,n-queens,1767752606,cpp,Accepted,0 ms,10.1 MB,Jagath_kumar_reddy_k,0,10.1,10.1
 1863493710,Network Delay Time,network-delay-time,1766508628,cpp,Accepted,94 ms,48 MB,Jagath_kumar_reddy_k,94,48.0,142.0
+1897965993,Number of 1 Bits,number-of-1-bits,1769452266,cpp,Accepted,0 ms,8.3 MB,Jagath_kumar_reddy_k,0,8.3,8.3
 1830799059,Number of Islands,number-of-islands,1763256098,cpp,Accepted,43 ms,22.4 MB,Jagath_kumar_reddy_k,43,22.4,65.4
 1876817727,Palindrome Partitioning,palindrome-partitioning,1767723798,cpp,Accepted,26 ms,53.5 MB,Jagath_kumar_reddy_k,26,53.5,79.5
 1746895173,Palindromic Substrings,palindromic-substrings,1756056407,cpp,Accepted,0 ms,8.7 MB,Jagath_kumar_reddy_k,0,8.7,8.7
