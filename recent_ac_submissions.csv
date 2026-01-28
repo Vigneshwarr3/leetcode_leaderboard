@@ -10,6 +10,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1881357439,Count Caesar Cipher Pairs,count-caesar-cipher-pairs,1768103084,cpp,Accepted,683 ms,107.9 MB,Jagath_kumar_reddy_k,683,107.9,790.9
 1881264761,Count Residue Prefixes,count-residue-prefixes,1768099394,cpp,Accepted,3 ms,10.4 MB,Jagath_kumar_reddy_k,3,10.4,13.4
 1858549225,Count Salary Categories,count-salary-categories,1766030427,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595,0.0,1595.0
+1899363839,Counting Bits,counting-bits,1769576321,cpp,Accepted,3 ms,11.3 MB,Jagath_kumar_reddy_k,3,11.3,14.3
 1858410605,Course Schedule,course-schedule,1766007071,cpp,Accepted,9 ms,20.2 MB,Jagath_kumar_reddy_k,9,20.2,29.2
 1862537746,Course Schedule II,course-schedule-ii,1766418487,cpp,Accepted,7 ms,18.3 MB,Jagath_kumar_reddy_k,7,18.3,25.3
 1747173751,Decode Ways,decode-ways,1756081782,cpp,Accepted,0 ms,8.2 MB,Jagath_kumar_reddy_k,0,8.2,8.2
@@ -74,6 +75,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1895952844,Rotate Non Negative Elements,rotate-non-negative-elements,1769310209,cpp,Accepted,29 ms,310.6 MB,Jagath_kumar_reddy_k,29,310.6,339.6
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
 1895630739,Single Number,single-number,1769278239,cpp,Accepted,0 ms,20.5 MB,Jagath_kumar_reddy_k,0,20.5,20.5
+1898875146,Single Number II,single-number-ii,1769533366,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,0,13.4,13.4
+1898907563,Single Number III,single-number-iii,1769534657,cpp,Accepted,1 ms,14.1 MB,Jagath_kumar_reddy_k,1,14.1,15.1
 1758810433,Subsets II,subsets-ii,1756949281,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0,10.6,10.6
 1853052646,Surrounded Regions,surrounded-regions,1765469563,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11,20.7,31.7
 1867012461,Swim in Rising Water,swim-in-rising-water,1766875187,cpp,Accepted,0 ms,12.7 MB,Jagath_kumar_reddy_k,0,12.7,12.7
@@ -186,6 +189,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1819031133,Word Break,word-break,1762123466,python3,Accepted,4 ms,17.9 MB,madhavan02,4,17.9,21.9
 1769696047,Average Selling Price,average-selling-price,1757787418,postgresql,Accepted,227 ms,0.0B,user2464b,227,0.0,227.0
 1616273070,Average Time of Process per Machine,average-time-of-process-per-machine,1745469691,postgresql,Accepted,157 ms,0.0B,user2464b,157,0.0,157.0
+1898772008,Concatenation of Array,concatenation-of-array,1769528996,python3,Accepted,0 ms,19.3 MB,user2464b,0,19.3,19.3
 1624490738,Confirmation Rate,confirmation-rate,1746285424,postgresql,Accepted,232 ms,0.0B,user2464b,232,0.0,232.0
 1764143783,Customer Who Visited but Did Not Make Any Transactions,customer-who-visited-but-did-not-make-any-transactions,1757354997,postgresql,Accepted,450 ms,0.0B,user2464b,450,0.0,450.0
 1616278533,Employee Bonus,employee-bonus,1745470100,postgresql,Accepted,319 ms,0.0B,user2464b,319,0.0,319.0
