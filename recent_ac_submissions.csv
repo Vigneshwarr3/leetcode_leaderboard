@@ -19,6 +19,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1833049773,Detect Cycles in 2D Grid,detect-cycles-in-2d-grid,1763447804,cpp,Accepted,127 ms,214.9 MB,Jagath_kumar_reddy_k,127,214.9,341.9
 1887023275,Distinct Subsequences,distinct-subsequences,1768583322,cpp,Accepted,37 ms,44.2 MB,Jagath_kumar_reddy_k,37,44.2,81.2
 1872656909,Find Median from Data Stream,find-median-from-data-stream,1767412980,cpp,Accepted,64 ms,148.7 MB,Jagath_kumar_reddy_k,64,148.7,212.7
+1900302218,Find the Duplicate Number,find-the-duplicate-number,1769637937,cpp,Accepted,2 ms,65.6 MB,Jagath_kumar_reddy_k,2,65.6,67.6
 1895654057,Find the XOR of Numbers Which Appear Twice,find-the-xor-of-numbers-which-appear-twice,1769279522,cpp,Accepted,0 ms,27.6 MB,Jagath_kumar_reddy_k,0,27.6,27.6
 1879033081,Gas Station,gas-station,1767894977,cpp,Accepted,0 ms,109.8 MB,Jagath_kumar_reddy_k,0,109.8,109.8
 1875555255,Generate Parentheses,generate-parentheses,1767632631,cpp,Accepted,0 ms,12.9 MB,Jagath_kumar_reddy_k,0,12.9,12.9
@@ -56,6 +57,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1861194743,Minimum Deletion Cost to Make All Characters Equal,minimum-deletion-cost-to-make-all-characters-equal,1766288679,python3,Accepted,363 ms,30.5 MB,Jagath_kumar_reddy_k,363,30.5,393.5
 1895892365,Minimum Prefix Removal to Make Array Strictly Increasing,minimum-prefix-removal-to-make-array-strictly-increasing,1769308447,cpp,Accepted,0 ms,193.3 MB,Jagath_kumar_reddy_k,0,193.3,193.3
 1861185314,Mirror Distance of an Integer,mirror-distance-of-an-integer,1766288091,python3,Accepted,0 ms,17.3 MB,Jagath_kumar_reddy_k,0,17.3,17.3
+1899945170,Missing Number,missing-number,1769615393,cpp,Accepted,0 ms,21.7 MB,Jagath_kumar_reddy_k,0,21.7,21.7
 1877064697,N-Queens,n-queens,1767752606,cpp,Accepted,0 ms,10.1 MB,Jagath_kumar_reddy_k,0,10.1,10.1
 1863493710,Network Delay Time,network-delay-time,1766508628,cpp,Accepted,94 ms,48 MB,Jagath_kumar_reddy_k,94,48.0,142.0
 1897965993,Number of 1 Bits,number-of-1-bits,1769452266,cpp,Accepted,0 ms,8.3 MB,Jagath_kumar_reddy_k,0,8.3,8.3
@@ -71,6 +73,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1858483394,Redundant Connection,redundant-connection,1766020787,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4,14.4,18.4
 1819022073,Regular Expression Matching,regular-expression-matching,1762122123,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3,9.1,12.1
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
+1899908704,Reverse Bits,reverse-bits,1769613351,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,0,8.0,8.0
 1873161040,Reverse String Prefix,reverse-string-prefix,1767451009,python3,Accepted,0 ms,17.5 MB,Jagath_kumar_reddy_k,0,17.5,17.5
 1895952844,Rotate Non Negative Elements,rotate-non-negative-elements,1769310209,cpp,Accepted,29 ms,310.6 MB,Jagath_kumar_reddy_k,29,310.6,339.6
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
@@ -78,6 +81,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1898875146,Single Number II,single-number-ii,1769533366,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,0,13.4,13.4
 1898907563,Single Number III,single-number-iii,1769534657,cpp,Accepted,1 ms,14.1 MB,Jagath_kumar_reddy_k,1,14.1,15.1
 1758810433,Subsets II,subsets-ii,1756949281,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0,10.6,10.6
+1900299639,Sum of Two Integers,sum-of-two-integers,1769637528,cpp,Accepted,0 ms,7.8 MB,Jagath_kumar_reddy_k,0,7.8,7.8
 1853052646,Surrounded Regions,surrounded-regions,1765469563,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11,20.7,31.7
 1867012461,Swim in Rising Water,swim-in-rising-water,1766875187,cpp,Accepted,0 ms,12.7 MB,Jagath_kumar_reddy_k,0,12.7,12.7
 1809026532,Target Sum,target-sum,1761186218,cpp,Accepted,30 ms,26 MB,Jagath_kumar_reddy_k,30,26.0,56.0
