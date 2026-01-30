@@ -79,7 +79,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1830779847,Rotting Oranges,rotting-oranges,1763252874,cpp,Accepted,0 ms,17.1 MB,Jagath_kumar_reddy_k,0,17.1,17.1
 1895630739,Single Number,single-number,1769278239,cpp,Accepted,0 ms,20.5 MB,Jagath_kumar_reddy_k,0,20.5,20.5
 1898875146,Single Number II,single-number-ii,1769533366,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,0,13.4,13.4
-1898907563,Single Number III,single-number-iii,1769534657,cpp,Accepted,1 ms,14.1 MB,Jagath_kumar_reddy_k,1,14.1,15.1
+1901049701,Single Number III,single-number-iii,1769699855,cpp,Accepted,0 ms,14 MB,Jagath_kumar_reddy_k,0,14.0,14.0
 1758810433,Subsets II,subsets-ii,1756949281,cpp,Accepted,0 ms,10.6 MB,Jagath_kumar_reddy_k,0,10.6,10.6
 1900299639,Sum of Two Integers,sum-of-two-integers,1769637528,cpp,Accepted,0 ms,7.8 MB,Jagath_kumar_reddy_k,0,7.8,7.8
 1853052646,Surrounded Regions,surrounded-regions,1765469563,cpp,Accepted,11 ms,20.7 MB,Jagath_kumar_reddy_k,11,20.7,31.7
