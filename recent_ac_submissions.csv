@@ -199,6 +199,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1616278533,Employee Bonus,employee-bonus,1745470100,postgresql,Accepted,319 ms,0.0B,user2464b,319,0.0,319.0
 1761972043,Invalid Tweets,invalid-tweets,1757199284,postgresql,Accepted,337 ms,0.0B,user2464b,337,0.0,337.0
 1624462347,Managers with at Least 5 Direct Reports,managers-with-at-least-5-direct-reports,1746282885,postgresql,Accepted,304 ms,0.0B,user2464b,304,0.0,304.0
+1902127366,Maximum Average Subarray I,maximum-average-subarray-i,1769787471,python3,Accepted,60 ms,29 MB,user2464b,60,29.0,89.0
 1788519662,Not Boring Movies,not-boring-movies,1759343061,postgresql,Accepted,185 ms,0.0B,user2464b,185,0.0,185.0
 1764057912,Product Sales Analysis I,product-sales-analysis-i,1757351241,postgresql,Accepted,1489 ms,0.0B,user2464b,1489,0.0,1489.0
 1761956997,Recyclable and Low Fat Products,recyclable-and-low-fat-products,1757197114,postgresql,Accepted,283 ms,0.0B,user2464b,283,0.0,283.0
