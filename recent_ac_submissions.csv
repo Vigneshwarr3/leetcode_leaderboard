@@ -167,6 +167,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1819037863,Longest Increasing Subsequence,longest-increasing-subsequence,1762124454,python3,Accepted,1782 ms,17.8 MB,madhavan02,1782,17.8,1799.8
 1895794471,Longest Palindromic Substring,longest-palindromic-substring,1769293829,python3,Accepted,336 ms,19.4 MB,madhavan02,336,19.4,355.4
 1885716048,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,1768474400,python3,Accepted,15 ms,19.5 MB,madhavan02,15,19.5,34.5
+1906130210,Lowest Common Ancestor of a Binary Search Tree,lowest-common-ancestor-of-a-binary-search-tree,1770086617,python3,Accepted,75 ms,22.8 MB,madhavan02,75,22.8,97.8
+1906137131,Lowest Common Ancestor of a Binary Tree,lowest-common-ancestor-of-a-binary-tree,1770087287,python3,Accepted,39 ms,24.5 MB,madhavan02,39,24.5,63.5
 1876954513,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,1767736256,python3,Accepted,26 ms,22.9 MB,madhavan02,26,22.9,48.9
 1818128687,Maximum Product Subarray,maximum-product-subarray,1762044489,python3,Accepted,10 ms,18.5 MB,madhavan02,10,18.5,28.5
 1896994472,Median of Two Sorted Arrays,median-of-two-sorted-arrays,1769384329,python3,Accepted,0 ms,19.7 MB,madhavan02,0,19.7,19.7
