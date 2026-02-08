@@ -8,6 +8,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1756561339,Combination Sum II,combination-sum-ii,1756785478,cpp,Accepted,3 ms,16 MB,Jagath_kumar_reddy_k,3,16.0,19.0
 1874610633,Contains Duplicate,contains-duplicate,1767556086,cpp,Accepted,47 ms,90.7 MB,Jagath_kumar_reddy_k,47,90.7,137.7
 1881357439,Count Caesar Cipher Pairs,count-caesar-cipher-pairs,1768103084,cpp,Accepted,683 ms,107.9 MB,Jagath_kumar_reddy_k,683,107.9,790.9
+1911866705,Count Dominant Indices,count-dominant-indices,1770518903,cpp,Accepted,0 ms,32.2 MB,Jagath_kumar_reddy_k,0,32.2,32.2
 1881264761,Count Residue Prefixes,count-residue-prefixes,1768099394,cpp,Accepted,3 ms,10.4 MB,Jagath_kumar_reddy_k,3,10.4,13.4
 1858549225,Count Salary Categories,count-salary-categories,1766030427,mysql,Accepted,1595 ms,0.0B,Jagath_kumar_reddy_k,1595,0.0,1595.0
 1899363839,Counting Bits,counting-bits,1769576321,cpp,Accepted,3 ms,11.3 MB,Jagath_kumar_reddy_k,3,11.3,14.3
