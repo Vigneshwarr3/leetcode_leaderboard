@@ -38,6 +38,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1858537673,Last Person to Fit in the Bus,last-person-to-fit-in-the-bus,1766029140,mysql,Accepted,809 ms,0.0B,Jagath_kumar_reddy_k,809,0.0,809.0
 1871233902,Last Stone Weight,last-stone-weight,1767287625,cpp,Accepted,0 ms,10 MB,Jagath_kumar_reddy_k,0,10.0,10.0
 1877019090,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,1767746450,cpp,Accepted,0 ms,9 MB,Jagath_kumar_reddy_k,0,9.0,9.0
+1912729076,Linked List Cycle,linked-list-cycle,1770573819,cpp,Accepted,8 ms,11.7 MB,Jagath_kumar_reddy_k,8,11.7,19.7
 1802528683,Longest Common Subsequence,longest-common-subsequence,1760542055,cpp,Accepted,39 ms,27.6 MB,Jagath_kumar_reddy_k,39,27.6,66.6
 1874856578,Longest Consecutive Sequence,longest-consecutive-sequence,1767586949,cpp,Accepted,79 ms,89.1 MB,Jagath_kumar_reddy_k,79,89.1,168.1
 1886165888,Longest Increasing Path in a Matrix,longest-increasing-path-in-a-matrix,1768503657,cpp,Accepted,0 ms,19.7 MB,Jagath_kumar_reddy_k,0,19.7,19.7
@@ -52,6 +53,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1870597354,Maximum Subarray,maximum-subarray,1767222867,cpp,Accepted,0 ms,71.6 MB,Jagath_kumar_reddy_k,0,71.6,71.6
 1766611110,Maximum Sum With at Most K Elements,maximum-sum-with-at-most-k-elements,1757552841,cpp,Accepted,95 ms,107.9 MB,Jagath_kumar_reddy_k,95,107.9,202.9
 1881990403,Merge Triplets to Form Target Triplet,merge-triplets-to-form-target-triplet,1768150104,cpp,Accepted,0 ms,150.6 MB,Jagath_kumar_reddy_k,0,150.6,150.6
+1912706437,Merge Two Sorted Lists,merge-two-sorted-lists,1770572582,cpp,Accepted,0 ms,19.5 MB,Jagath_kumar_reddy_k,0,19.5,19.5
 1865521104,Min Cost to Connect All Points,min-cost-to-connect-all-points,1766727696,cpp,Accepted,463 ms,41.4 MB,Jagath_kumar_reddy_k,463,41.4,504.4
 1867833549,Minimum Cost to Acquire Required Items,minimum-cost-to-acquire-required-items,1766947848,cpp,Accepted,0 ms,9.1 MB,Jagath_kumar_reddy_k,0,9.1,9.1
 1861980789,Minimum Cost to Cut a Stick,minimum-cost-to-cut-a-stick,1766369128,cpp,Accepted,11 ms,14.1 MB,Jagath_kumar_reddy_k,11,14.1,25.1
