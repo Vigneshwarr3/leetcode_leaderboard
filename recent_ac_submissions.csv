@@ -75,6 +75,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1883033235,Reconstruct Itinerary,reconstruct-itinerary,1768237953,cpp,Accepted,5 ms,19.5 MB,Jagath_kumar_reddy_k,5,19.5,24.5
 1858483394,Redundant Connection,redundant-connection,1766020787,cpp,Accepted,4 ms,14.4 MB,Jagath_kumar_reddy_k,4,14.4,18.4
 1819022073,Regular Expression Matching,regular-expression-matching,1762122123,cpp,Accepted,3 ms,9.1 MB,Jagath_kumar_reddy_k,3,9.1,12.1
+1914087955,Reorder List,reorder-list,1770688326,cpp,Accepted,0 ms,23.8 MB,Jagath_kumar_reddy_k,0,23.8,23.8
 1760934265,Restore Finishing Order,restore-finishing-order,1757110440,cpp,Accepted,0 ms,50.2 MB,Jagath_kumar_reddy_k,0,50.2,50.2
 1899908704,Reverse Bits,reverse-bits,1769613351,cpp,Accepted,0 ms,8 MB,Jagath_kumar_reddy_k,0,8.0,8.0
 1907038638,Reverse Linked List,reverse-linked-list,1770139585,cpp,Accepted,0 ms,13.4 MB,Jagath_kumar_reddy_k,0,13.4,13.4
@@ -158,6 +159,7 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1875862954,Climbing Stairs,climbing-stairs,1767660900,python3,Accepted,0 ms,16.9 MB,madhavan02,0,16.9,16.9
 1817984312,Coin Change,coin-change,1762024524,python3,Accepted,740 ms,18.1 MB,madhavan02,740,18.1,758.1
 1820974898,Coin Change II,coin-change-ii,1762297503,python3,Accepted,187 ms,17.8 MB,madhavan02,187,17.8,204.8
+1914032096,Combinations,combinations,1770679803,python3,Accepted,79 ms,61.4 MB,madhavan02,79,61.4,140.4
 1823609770,Container With Most Water,container-with-most-water,1762549093,python3,Accepted,35 ms,28.4 MB,madhavan02,35,28.4,63.4
 1881652703,Contains Duplicate,contains-duplicate,1768125925,python3,Accepted,12 ms,32.4 MB,madhavan02,12,32.4,44.4
 1886326187,Daily Temperatures,daily-temperatures,1768524134,python3,Accepted,107 ms,35.1 MB,madhavan02,107,35.1,142.1
@@ -184,6 +186,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1886406862,Online Stock Span,online-stock-span,1768535412,python3,Accepted,60 ms,24.4 MB,madhavan02,60,24.4,84.4
 1817167324,Palindromic Substrings,palindromic-substrings,1761941443,python3,Accepted,124 ms,17.4 MB,madhavan02,124,17.4,141.4
 1878148845,Path Sum,path-sum,1767830299,python3,Accepted,3 ms,20.3 MB,madhavan02,3,20.3,23.3
+1914008823,Permutations,permutations,1770675854,python3,Accepted,0 ms,19.7 MB,madhavan02,0,19.7,19.7
+1914018339,Permutations II,permutations-ii,1770677402,python3,Accepted,3 ms,19.9 MB,madhavan02,3,19.9,22.9
 1883268714,Product of Array Except Self,product-of-array-except-self,1768257326,python3,Accepted,26 ms,27 MB,madhavan02,26,27.0,53.0
 1881177770,Regular Expression Matching,regular-expression-matching,1768087495,python3,Accepted,8 ms,19.4 MB,madhavan02,8,19.4,27.4
 1823493489,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,1762537836,python3,Accepted,0 ms,17.7 MB,madhavan02,0,17.7,17.7
@@ -191,6 +195,8 @@ id,title,titleSlug,timestamp,lang,statusDisplay,runtime,memory,username,runtime_
 1883258134,Rotting Oranges,rotting-oranges,1768255688,python3,Accepted,1 ms,19.4 MB,madhavan02,1,19.4,20.4
 1887218688,Search Insert Position,search-insert-position,1768598459,python3,Accepted,0 ms,20 MB,madhavan02,0,20.0,20.0
 1823371479,Squares of a Sorted Array,squares-of-a-sorted-array,1762528882,python3,Accepted,7 ms,19.3 MB,madhavan02,7,19.3,26.3
+1913992472,Subsets,subsets,1770673450,python3,Accepted,4 ms,19.7 MB,madhavan02,4,19.7,23.7
+1914000458,Subsets II,subsets-ii,1770674590,python3,Accepted,0 ms,19.6 MB,madhavan02,0,19.6,19.6
 1874707978,Two Sum,two-sum,1767568386,python3,Accepted,0 ms,18.4 MB,madhavan02,0,18.4,18.4
 1823601593,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,1762547997,python3,Accepted,0 ms,18.5 MB,madhavan02,0,18.5,18.5
 1820110803,Unique Paths,unique-paths,1762223535,python3,Accepted,3 ms,17.8 MB,madhavan02,3,17.8,20.8
